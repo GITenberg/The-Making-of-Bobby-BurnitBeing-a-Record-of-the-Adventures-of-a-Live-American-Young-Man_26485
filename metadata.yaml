@@ -29,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1465
     wikipedia: http://en.wikipedia.org/wiki/George_Randolph_Chester
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26485#The-Making-of-Bobby-BurnitBeing-a-Record-of-the-Adventures-of-a-Live-American-Young-Man
 gutenberg_issued: '2008-08-30'
 gutenberg_type: Text
 identifiers:
