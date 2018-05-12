@@ -1,0 +1,48 @@
+_repo: The-Making-of-Bobby-BurnitBeing-a-Record-of-the-Adventures-of-a-Live-American-Young-Man_26485
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Flagg, James Montgomery
+    alias: Flagg, J. Montgomery
+    birthdate: 1877
+    deathdate: 1960
+    gutenberg_agent_id: '25940'
+    url: http://www.gutenberg.org/2009/agents/25940
+    wikipedia: http://en.wikipedia.org/wiki/James_Montgomery_Flagg
+  - agent_name: Gruger, Frederic Rodrigo
+    aliases:
+    - Gruger, F. R. (Frederic Rodrigo)
+    - Gruger, Frederic R. (Frederic Rodrigo)
+    birthdate: 1871
+    deathdate: 1953
+    gutenberg_agent_id: '31201'
+    url: http://www.gutenberg.org/2009/agents/31201
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chester, George Randolph
+    birthdate: 1869
+    deathdate: 1924
+    gutenberg_agent_id: '1465'
+    url: http://www.gutenberg.org/2009/agents/1465
+    wikipedia: http://en.wikipedia.org/wiki/George_Randolph_Chester
+description: ''
+gutenberg_issued: '2008-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26485'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Love stories'
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'Businessmen -- Fiction'
+title: 'The Making of Bobby Burnit
+
+  Being a Record of the Adventures of a Live American Young Man'
+url: http://www.gutenberg.org/ebooks/26485
